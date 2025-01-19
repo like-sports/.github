@@ -1,7 +1,7 @@
 # Like Sports Project
 
 <p align="center">
-  <img src="docs/images/logo.png" alt="Like Sports Logo" width="200"/>
+  <strong style="font-size: 2em;">Like Sports</strong>
 </p>
 
 <p align="center">
